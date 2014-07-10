@@ -24,6 +24,7 @@ would output the following HTML:
         <li>And this is another</li>
     </ul>
 
-Version 1.1
-******************
-- Updated plugin to be 2.0 compatible 
+## Change Log
+
+- Version 1.1
+	- Updated plugin to be 2.0 compatible
